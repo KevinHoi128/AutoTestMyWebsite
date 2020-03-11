@@ -1,0 +1,45 @@
+2020-03-11 17:01:03,672 - BrowserEngine - INFO - You had select Chrome browser.
+2020-03-11 17:01:03,673 - BrowserEngine - INFO - The test server url is: https://www.krosey.com
+2020-03-11 17:01:08,971 - BrowserEngine - INFO - Starting Chrome browser.
+2020-03-11 17:01:12,878 - BrowserEngine - INFO - Open url: https://www.krosey.com
+2020-03-11 17:01:17,004 - BrowserEngine - INFO - Maximize the current window.
+2020-03-11 17:01:17,007 - BrowserEngine - INFO - Set implicitly wait 2 seconds.
+2020-03-11 17:01:18,193 - ContactKrosey - INFO - Click to contact page.
+2020-03-11 17:01:18,227 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='wpcf7-f165-p343-o1']/form/p[1]/label/span/input 
+2020-03-11 17:01:18,355 - BasePage - INFO - Had type 'Kevin ' in inputBox
+2020-03-11 17:01:18,356 - KroseyContact - INFO - Input name.
+2020-03-11 17:01:19,410 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='wpcf7-f165-p343-o1']/form/p[2]/label/span/input 
+2020-03-11 17:01:19,601 - BasePage - INFO - Had type 'krose.kachon@gmail.com ' in inputBox
+2020-03-11 17:01:19,602 - KroseyContact - INFO - Input email.
+2020-03-11 17:01:20,648 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='wpcf7-f165-p343-o1']/form/p[3]/label/span/textarea 
+2020-03-11 17:01:20,732 - BasePage - INFO - Had type 'Blablabla. ' in inputBox
+2020-03-11 17:01:20,733 - KroseyContact - INFO - Input comment.
+2020-03-11 17:01:22,323 - BasePage - INFO - Had take screenshot and save to folder : /Screenshots
+2020-03-11 17:01:23,402 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='wpcf7-f165-p343-o1']/form/p[4]/input 
+2020-03-11 17:01:23,495 - BasePage - INFO - The element ' ' was clicked.
+2020-03-11 17:01:23,495 - KroseyContact - INFO - Submit.
+2020-03-11 17:01:26,075 - BasePage - INFO - Had take screenshot and save to folder : /Screenshots
+2020-03-11 17:01:29,277 - BrowserEngine - INFO - You had select Chrome browser.
+2020-03-11 17:01:29,279 - BrowserEngine - INFO - The test server url is: https://www.krosey.com
+2020-03-11 17:01:34,561 - BrowserEngine - INFO - Starting Chrome browser.
+2020-03-11 17:01:38,396 - BrowserEngine - INFO - Open url: https://www.krosey.com
+2020-03-11 17:01:42,521 - BrowserEngine - INFO - Maximize the current window.
+2020-03-11 17:01:42,523 - BrowserEngine - INFO - Set implicitly wait 2 seconds.
+2020-03-11 17:01:46,845 - BrowserEngine - INFO - You had select Chrome browser.
+2020-03-11 17:01:46,846 - BrowserEngine - INFO - The test server url is: https://www.krosey.com
+2020-03-11 17:01:52,175 - BrowserEngine - INFO - Starting Chrome browser.
+2020-03-11 17:01:56,077 - BrowserEngine - INFO - Open url: https://www.krosey.com
+2020-03-11 17:02:00,205 - BrowserEngine - INFO - Maximize the current window.
+2020-03-11 17:02:00,211 - BrowserEngine - INFO - Set implicitly wait 2 seconds.
+2020-03-11 17:02:01,090 - ToKobePage - INFO - Click to practice page.
+2020-03-11 17:02:01,659 - BasePage - INFO - Had take screenshot and save to folder : /Screenshots
+2020-03-11 17:02:02,774 - ToKobePage - INFO - Switch to webpage folder.
+2020-03-11 17:02:08,125 - ToKobePage - INFO - Click to Kobe page.
+2020-03-11 17:02:09,895 - BasePage - INFO - Had take screenshot and save to folder : /Screenshots
+2020-03-11 17:02:12,865 - ToKobePage - INFO - Click to kobe tribute video.
+2020-03-11 17:02:13,454 - BasePage - INFO - Had take screenshot and save to folder : /Screenshots
+2020-03-11 17:02:14,247 - ToKobePage - INFO - Click to kobe block2.
+2020-03-11 17:02:15,390 - ToKobePage - INFO - Click to kobe block3.
+2020-03-11 17:02:16,462 - ToKobePage - INFO - Click to kobe block4.
+2020-03-11 17:02:17,525 - ToKobePage - INFO - Click to kobe block5.
+2020-03-11 17:02:18,592 - ToKobePage - INFO - Click to final kobe block.
