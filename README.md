@@ -1,7 +1,7 @@
 # AutoTestMyWebsite
 測試對象: Krosey.com  測試案例:3  生成結果: 截圖*5, Log文件*1, HTML測試報告*1。  
 
- 自動化測試網站的Contact留言功能  
+1. 自動化測試網站的Contact留言功能  
 1.1 打開Chrome,前往krosey.com及將網頁最大化。  
 1.2 點擊CONTACT頁面。  
 1.3 依次輸入name, email, comment.  
@@ -11,13 +11,13 @@
 1.7 結束。  
 
 
-自動化測試網站的Contact留言功能(失敗版本)  
+2. 自動化測試網站的Contact留言功能(失敗版本)  
 2.1 打開Chrome,前往krosey.com及將網頁最大化。  
 2.2 因為選擇前往CONTACT的頁面元素設置錯誤,無法前往,此次自動化測試失敗并關閉。  
 2.3 結束。失敗原因於HTML測試報告中可詳細暸解。  
 
 
-自動化測試網站的PRACTICE頁面中的Webpage分類中之KOBE頁面  
+3. 自動化測試網站的PRACTICE頁面中的Webpage分類中之KOBE頁面  
 3.1 打開Chrome,前往krosey.com及將網頁最大化。  
 3.2 點擊Practice頁面後截圖。  
 3.3 切換到webpage folder後點擊kobe頁面。  
