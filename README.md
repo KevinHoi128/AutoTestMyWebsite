@@ -29,4 +29,5 @@
 test_report中的HTML文件是測試報告。
 
 #動圖展示
-![image] (http://krosey.com/wp-content/uploads/2020/03/AutoTest32.gif)
+
+![image](http://krosey.com/wp-content/uploads/2020/03/AutoTest32.gif)
